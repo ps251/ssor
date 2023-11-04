@@ -1,5 +1,11 @@
 # Semantic Search for Org Roam
 
+Fork Changes: 
+- Only processes nodes that have changed
+- Always splits paragraphes
+- Also inserts text body in results
+    
+
 Original post: http://lgmoneda.github.io/2023/04/08/semantic-search-for-org-roam.html
 
 Steps:

@@ -1,3 +1,4 @@
 dist
 ssor.egg-*
 ssor/__pycache__/
+.env
